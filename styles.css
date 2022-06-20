@@ -1,0 +1,252 @@
+
+.botton{
+    background-color:  #E5E5E5;
+    width: 382px;
+    margin: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E5E5E5;
+    border-radius: 5px;
+    
+    top: 20px;
+}
+.logo{
+    background-color: white;
+    margin: auto;
+    width: 382px;
+}
+.telefon{
+    margin: 0 auto;
+}
+.r3{
+    color: #FF9846;
+    margin: 0 auto;
+}
+.sad{
+    margin: 0 auto;
+}
+.v4{
+    text-align: center; 
+   margin-top: 5px;
+margin-bottom: 10px;
+}
+.w3{
+    margin: auto;
+    width: 382px; 
+}
+.dog{
+    width: 150px;
+    margin-left: 5px;
+    border-radius: 5px;
+    height: 147px;
+}
+.oz{
+    width: 162px;
+    height: 147px;
+    border-radius: 5px;
+    background-color: gold;
+    margin-left: 20px;
+}
+   .zoo{
+    width: 162px;
+    height:147px;
+    border-radius: 5px;
+    background-color: gold;
+    margin-left: 5px;
+}
+   .ap{
+       color: #b4b2b2;
+   }
+   .salom{
+    color: chocolate;
+    text-align: center;
+    padding-top: 5%;
+    margin-left: 20px;
+    background-color: white;
+    margin: auto;
+    width: 382px;
+   }
+   
+   .hn{
+       width: 382px ;
+   }
+   .ozi{
+       left: 500px;
+       position: absolute;
+      top: 235px;
+   }
+   .izo{
+    left: 500px;
+    position: absolute;
+    top: 85px;
+   }
+   .yoz{
+    left: 700px;
+    position: absolute;
+   top:240px;
+   }
+   .jinni{
+    left: 700px;
+    position: absolute;
+   top:80px;
+   }
+   .zio{
+    left: 500px;
+    position: absolute;
+   top:395px;
+   }
+
+   .yozi{
+    left: 700px;
+    position: absolute;
+   top:395px;
+   }
+   .ozzi{
+    position: absolute;
+    margin-left: 30px;
+   }
+   .h{
+    color: #b4b2b2;
+    margin-left: 60px;
+   }
+   .lo{
+    text-align: center;
+   }
+
+   .kj{
+    width: 100%;
+    text-align: center;
+   }
+
+   .table{
+    width: 100%;
+    /* background-color: red; */
+   }
+   
+   .AN{
+   text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    width: 135px;
+    border-color: #d9d9d9;
+    margin-left: 10px;
+    margin-right: 10px;
+   }
+   .na{
+    border-color: #d9d9d9;
+    text-align: center;
+   border-radius: 5px;
+   height: 30px;
+   width: 135px;
+   margin-right: 5px;
+   }
+   .an{
+    border-color: #d9d9d9;
+    text-align: center;
+   border-radius: 5px;
+   height: 45px;
+   width: 160px;
+   margin-left: 20px;
+   background-color: #FF9846;
+   }
+   .xa{
+    border-color: #d9d9d9;
+    text-align: center;
+   border-radius: 5px;
+   height: 30px;
+   width: 330px;
+   margin-left: 20px;
+   margin-right: 20px;
+   }
+   .sal{
+    text-align: center;
+    border-radius: 5px;
+    width: 155px;
+    border-color: #d9d9d9;
+    height: 45px;
+    margin-left: 100;
+    margin-right: 10px;
+    background-color: #FF9846;
+   }
+   .nam{
+    border-color: #d9d9d9;
+    text-align: center;
+   border-radius: 5px;
+   height: 45px;
+   width: 150px;
+   margin-left: 20px;
+   background-color: #FF9846;
+   }
+   .las{
+    border-color: #d9d9d9;
+    text-align: center;
+   border-radius: 5px;
+   height: 45px;
+   width: 155px;
+   margin-left: 15px;
+   background-color: #FF9846;
+   }
+   .eee{
+    margin-left: 10px;
+    display: inline-block;
+   }
+   .aaa{
+    display: inline-block;
+   }
+   .uf{
+    display: inline-block;
+    height: 40px;
+    border-radius: 7px;
+    border: 1px solid #F5F4F4;
+   }
+   .da{
+
+    border-color: #d9d9d9;
+    border-radius: 5px;
+    height: 35px;
+    width: 350px;
+   }
+   .sad{
+    display: inline-block;
+    margin-left: 10px;
+   }
+   .eed{
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 5px;
+    /* border-color: #ff0000; */
+   }
+   .gd{
+    width: 20px;
+    /* border-color: #ff0000; */
+   }
+.ss{
+    font-size: 20px;
+     padding-left: 21px;
+}
+.kkk{
+    font-size: 20px;
+    padding-left: 21px;
+}
+
+.gg{
+    margin-left: 200px;
+}
+.av{
+    text-align: center;
+    margin-right: 20px;
+}
+.ddf{
+  margin-left: 85px;
+}
+.ddff{
+    margin-left: 80px;
+}
+.ggb{
+    border-radius: 5px;
+    width: 375px;
+    height: 40px;
+    text-align: center;
+    background-color: #FF9846;
+    border-color: rgb(237, 154, 99);
+}
